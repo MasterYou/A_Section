@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'A_Section'
-  s.version          = '0.1.0'
+  s.version          = '0.0.1'
   s.summary          = 'A short description of A_Section.'
 
 # This description is used to generate tags and improve search results.
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/masteryooh/A_Section'
+  s.homepage         = 'https://github.com/MasterYou/A_Section'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'masteryooh' => '379956383@qq.com' }
-  s.source           = { :git => 'https://github.com/masteryooh/A_Section.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/MasterYou/A_Section.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'
