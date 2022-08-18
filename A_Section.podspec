@@ -17,8 +17,10 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
+  s.platform = :ios, "10.0"
+
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+  A short description of A_Section.A short description of A_Section.
                        DESC
 
   s.homepage         = 'https://github.com/MasterYou/A_Section'
